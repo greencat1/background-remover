@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Mypy
+.mypy_cache/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Model files
+models/
+checkpoints/
+
+# Generated outputs
+outputs/
+
+# Docker
+*.tar
+
+# Temporary files
+tmp/
+temp/
+
+# Images generated during testing
+images/output/
+
+# Optional: ignore uploaded examples
+# images/input/
