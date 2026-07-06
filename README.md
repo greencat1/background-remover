@@ -143,7 +143,7 @@ http://localhost:8000/remove-bg \
 
 Результат:
 
-<img src="images/output/backpack.png" width="250">
+<img src="images/output/backpack.jpg" width="250">
 
 Описание:
 
@@ -159,7 +159,7 @@ http://localhost:8000/remove-bg \
 
 Результат:
 
-<img src="images/output/cat.png" width="250">
+<img src="images/output/cat.JPG" width="250">
 
 Описание:
 
@@ -175,7 +175,7 @@ http://localhost:8000/remove-bg \
 
 Результат:
 
-<img src="images/output/girl.png" width="250">
+<img src="images/output/girl.jpg" width="250">
 
 Описание:
 
