@@ -135,63 +135,51 @@ http://localhost:8000/remove-bg \
 
 ## Примеры результатов
 
-Пример 1
+### Пример 1. Рюкзак
 
 Исходное изображение:
 
-```text
-images/input/backpack.jpg
-```
+<img src="images/input/backpack.jpg" width="250">
 
 Результат:
 
-```text
-images/output/backpack.png
-```
+<img src="images/output/backpack.png" width="250">
 
 Описание:
 
-Удаление фона вокруг предмета. Хорошее выделение контуров объекта.
+Удаление фона вокруг предмета. Контуры объекта выделены корректно.
 
 ---
 
-Пример 2
+### Пример 2. Кот
 
 Исходное изображение:
 
-```text
-images/input/cat.jpg
-```
+<img src="images/input/cat.JPG" width="250">
 
 Результат:
 
-```text
-images/output/cat.png
-```
+<img src="images/output/cat.png" width="250">
 
 Описание:
 
-Корректное выделение шерсти и сложных границ объекта.
+Модель корректно выделяет шерсть и мелкие детали.
 
 ---
 
-Пример 3
+### Пример 3. Человек
 
 Исходное изображение:
 
-```text
-images/input/girl.jpg
-```
+<img src="images/input/girl.jpg" width="250">
 
 Результат:
 
-```text
-images/output/girl.png
-```
+<img src="images/output/girl.png" width="250">
 
 Описание:
 
-Выделение человека со сложной структурой волос.
+Модель выделяет сложную структуру волос и сохраняет детали объекта.
 
 ---
 
